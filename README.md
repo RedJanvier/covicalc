@@ -1,3 +1,3 @@
 # Covicalc
 
-This is an awesomity taskforce challenge
+This is a taskforce challenge
